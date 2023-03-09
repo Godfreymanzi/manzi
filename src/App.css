@@ -1,0 +1,16 @@
+.card1{
+    background-image: url('./components/Assets/1664037012mnxm-xmmx1nmimma4i11.jpg');
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+.card2{
+    background-image: url('./components/Assets/depositphotos_183023180-stock-photo-space-gray-apple-iphone-x.jpg');
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.card3{
+    background-image: url('./components/Assets/Apple-iPhone-11-PNG-Transparent-HD-Photo.png');
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
